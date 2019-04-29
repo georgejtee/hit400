@@ -3,3 +3,4 @@ opencv
 pandas
 tensorflow
 pyqt5
+matploitlib
